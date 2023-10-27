@@ -1,0 +1,2 @@
+1	Dk pharma		Nanded		9800322310	dkpharma@12.com
+2	MedOne pharma		pune		9876541122	medone12@gmail.com

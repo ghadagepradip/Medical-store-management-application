@@ -1,0 +1,6 @@
+EX01	pradip ghadage		Solapur		7558432211	ghadagepradip2001@gmail.com
+EX02	sanket sule		Solapur		9665401655	sulesanket18@gmail.com
+EX03	yash doshi		akluj		9867803321	yashdoshi10@emai.com
+EX04	rohit doke		tembhu.		7445231212	dokerohit1212@gmail.com
+EX05	vinod bogar		sangali		7867594400	bogarvinod12@gmail.com
+EX06	pavan chavan		wai		9850324646	pavan1212@gmail.com
